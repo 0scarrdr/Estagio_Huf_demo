@@ -129,10 +129,7 @@ A aplicação nasceu da necessidade de reduzir o tempo despendido pela equipa de
 Desenvolver e implementar uma aplicação web responsiva capaz de ler o QR Code de uma máquina e apresentar todas as informações existentes sobre ela, com o fim de facilitar o acesso aos dados e aumentar a produtividade dos trabalhadores da manutenção.
 
 
-Markdown
-
-[![Demonstração do Cockpit 360](https://youtu.be/aQbpwHOzxdk)
-
+Link de demonstração:  https://youtu.be/aQbpwHOzxdk
 
 ⚙️ Arquitetura e Fluxo de Funcionamento
 A aplicação foi desenhada com um fluxo lógico para garantir rapidez e precisão na obtenção dos dados:
