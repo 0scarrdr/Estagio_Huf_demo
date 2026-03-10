@@ -125,28 +125,14 @@ Huf Portuguesa, como parte da Licenciatura em Engenharia Informática do Polité
 A aplicação nasceu da necessidade de reduzir o tempo despendido pela equipa de manutenção na procura de informação dispersa, como manuais, histórico de incidentes ou stock de peças. O impacto direto desta otimização é o aumento da produtividade e a diminuição do tempo de paragem das máquinas.
 
 
-🎯 Objetivo Principal
+🎯 Objetivo Principal 
 Desenvolver e implementar uma aplicação web responsiva capaz de ler o QR Code de uma máquina e apresentar todas as informações existentes sobre ela, com o fim de facilitar o acesso aos dados e aumentar a produtividade dos trabalhadores da manutenção.
 
 
-🎥 Vídeo de Demonstração
-O relatório original menciona um vídeo que demonstra a aplicação a ser testada em ambiente local. Pode adicionar um link para o seu vídeo aqui.
-
-Como adicionar:
-
-Faça o upload do seu vídeo para uma plataforma como o YouTube.
-
-Tire uma captura de ecrã ou crie um GIF do vídeo.
-
-Adicione a imagem ou GIF ao seu repositório.
-
-Use o seguinte código Markdown para criar uma imagem clicável:
-
 Markdown
 
-[![Demonstração do Cockpit 360](URL_DA_SUA_IMAGEM.jpg)](URL_DO_SEU_VIDEO_NO_YOUTUBE)
+[![Demonstração do Cockpit 360](https://youtu.be/aQbpwHOzxdk)
 
-(Placeholder da imagem do vídeo mencionado no relatório )
 
 ⚙️ Arquitetura e Fluxo de Funcionamento
 A aplicação foi desenhada com um fluxo lógico para garantir rapidez e precisão na obtenção dos dados:
@@ -154,7 +140,6 @@ A aplicação foi desenhada com um fluxo lógico para garantir rapidez e precis�
 Entrada de Dados: O utilizador inicia o processo de duas formas:
 
 Lendo um QR Code afixado na máquina com a câmara de um tablet.
-
 
 Selecionando a máquina desejada a partir de uma lista de pesquisa.
 
